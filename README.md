@@ -3,10 +3,10 @@
 - 👀 I'm interested in learn programming and testing
 - 🌱 I’m currently learning right now is Node, but i learn a little bit java, python and javascript.
 
-<div align="center" style="display: flex">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/VitorKreis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorKreis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorKreis&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VitorKreis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorKreis&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block" align='center'><br>
