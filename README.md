@@ -1,8 +1,6 @@
 ## <h1 align="center">Hi 👋, I'm Vitor</h1>
 <h3 align="center">Sou estudante de Engenharia de Software e Desenvolvedor Web</h3>
 
-- 🔭 I’m currently working on [Amazon](https://github.com/VitorKreis/Amazon)
-
 - 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VitorKreis](https://github.com/VitorKreis)
