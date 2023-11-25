@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Javascript**
 
-- 📫 How to reach me **vitor.1richter@gmail.com**
+- 📫 How to reach me **[www.linkedin.com/in/vitorkreis](https://www.linkedin.com/in/vitorkreis/)**
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/VitorKreis">
