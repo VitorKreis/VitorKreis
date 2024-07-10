@@ -1,4 +1,4 @@
-## <h1 align="center">Hi 👋, I'm Vitor</h1>
+## <h1 align="center">Olá 👋, Eu Sou Vitor</h1>
 <h3 align="center">Sou estudante de Engenharia de Software e Desenvolvedor BackEnd</h3>
 
 - 🌱 I’m currently learning **Node.js and Java**
